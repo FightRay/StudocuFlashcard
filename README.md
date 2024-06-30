@@ -1,6 +1,6 @@
 # StudocuFlashcard by Ray
 Welcome to the StudocuFlashcard respository.
-Made as a home assignment for a Studocu, built using Laravel.
+Made as a home assignment for Studocu, built using Laravel.
 Create, list and practice flashcards in an interactive CLI application!
 The application allows practice progress for multiple users.
 
@@ -24,6 +24,7 @@ Navigate to the project folder and run:
 ```
 composer require laravel/sail --dev
 php artisan sail:install
+sail up
 ```
 
 ### Main command for the interactive menu
